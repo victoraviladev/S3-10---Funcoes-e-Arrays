@@ -1,0 +1,34 @@
+Maraton Kenzie
+
+
+Nao tem mais hipotese do cenario mudar = const
+
+names = Rafael, Manoel e Daniel
+
+Daniel tem vantagem
+
+qual a funcao para criar o podio??
+
+condicionais - If/Else
+
+
+retornar uma string
+com os nomes de todos os 3 vencedores e suas respectivas posições
+tendo em vista um detalhe importante
+o corredor Daniel ganhou um bonus extra
+por isso ele sempre vai subir uma posição
+
+    se estiver na posição 2, sobe para a 1
+        e quem estava na posição 1 ocupa a posição 2
+    se estiver na posição 3, sobe para a 2
+        e quem estava na posição 2 ocupa a posição 3
+    se estiver na posição 1 não tem como subir mais.
+
+O que é importante nessa entrega?
+
+entender e trabalhar com:
+
+array e posições do array
+condicionais if / else
+Como ainda não viram sobre looping, podem assumir que irão receber sempre os mesmos colocados. 
+E trabalhar com posições fixas. 
